@@ -1,0 +1,15 @@
+{
+  "updated_utc": "2026-05-24T00:00:00Z",
+  "price_usd": 64133,
+  "mvrv": 2.10,
+  "mvrv_zscore": 1.0,
+  "nupl": 0.42,
+  "puell": 1.0,
+  "reserve_risk": 0.0035,
+  "fng": 32,
+  "funding_value": 0.0,
+  "funding_label": "flat",
+  "sma_200w": null,
+  "pct_above_200w": null,
+  "errors": ["seed file - overwritten on first workflow run"]
+}
