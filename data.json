@@ -1,15 +1,16 @@
 {
-  "updated_utc": "2026-09-09T12:42:33Z",
-  "errors": [],
-  "price_usd": 79563.1,
-  "sma_200w": 65274.39,
-  "pct_above_200w": 21.9,
-  "mvrv": 1.4873,
-  "nupl": 0.3276,
-  "mvrv_zscore": 0.8725,
-  "puell": 0.8901,
-  "reserve_risk": 0.000608,
-  "fng": 66,
-  "funding_value": 78870.1,
+  "updated_utc": "2026-09-10T12:40:50Z",
+  "errors": [
+    "mvrv: unrecognized shape -> []",
+    "nupl: unrecognized shape -> []",
+    "mvrv-zscore: unrecognized shape -> []",
+    "puell-multiple: unrecognized shape -> []",
+    "reserve-risk: unrecognized shape -> []"
+  ],
+  "price_usd": 77089.3,
+  "sma_200w": 65570.15,
+  "pct_above_200w": 17.6,
+  "fng": 69,
+  "funding_value": 78569.9,
   "funding_label": "elevated"
 }
